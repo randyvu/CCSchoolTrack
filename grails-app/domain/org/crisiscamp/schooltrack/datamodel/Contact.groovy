@@ -5,6 +5,7 @@ class Contact {
 	String name
 	Address address
 	String telephone
+	String email
 	
     static constraints = {
     }
